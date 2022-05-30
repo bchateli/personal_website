@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Baptiste CHATELIER
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.Sc. Student in Electronics and Telecommunications Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Institute of Applied Sciences (INSA)
+    url: https://www.insa-rennes.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wireless communications, signal processing, artificial intelligence.
 
 # Interests to show in About widget
 interests:
+  - Signal processing
+  - Applied mathematics
+  - Probability theory
+  - Wireless communications
+  - MIMO systems
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Electronics and Telecommunications Engineering
+      institution: National Institute of Applied Sciences, Rennes (INSA)
+      year: 2017-2022
+    - course: M.Sc. in Microtechnologies, Architecture, Communication Networks and Systems (Research master)
+      institution: National Institute of Applied Sciences, Rennes (INSA)
+      year: 2021-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:baptiste.chatelier1@gmail.com'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=fr&user=HIUZ-UkAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bchateli
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/baptiste-chatelier/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently pursuing the Electronics and Telecommunications engineering master's degree at the [National Institute of Applied Sciences (INSA), Rennes, France](https://www.insa-rennes.fr/electronics-telecommunications.html) and the research master's degree in Microtechnologies, Architecture, Communication Networks and Systems also at [INSA Rennes](https://www.insa-rennes.fr/master-electronics.html). I am currently doing my End-Of-Studies project at the [Institute of Research and Techology b<>com](https://b-com.com) (Rennes, France). My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
