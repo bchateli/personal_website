@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Baptiste CHATELIER # Website name
-baseURL: 'https://baptistechatelier.com/' # Website URL
+baseURL: 'https://baptistechatelier.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
