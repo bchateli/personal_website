@@ -6,7 +6,7 @@ title: Baptiste CHATELIER
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Student in Electronics and Telecommunications Engineering
+role: Future PhD student in Telecommunications Engineering and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-I am currently pursuing the Electronics and Telecommunications engineering master's degree at the [National Institute of Applied Sciences (INSA), Rennes, France](https://www.insa-rennes.fr/electronics-telecommunications.html) and the research master's degree in Microtechnologies, Architecture, Communication Networks and Systems also at [INSA Rennes](https://www.insa-rennes.fr/master-electronics.html). I am currently doing my End-Of-Studies project at the [Institute of Research and Techology b<>com](https://b-com.com) (Rennes, France). My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
+I received the Electronics and Telecommunications engineering master's degree at the [National Institute of Applied Sciences (INSA), Rennes, France](https://www.insa-rennes.fr/electronics-telecommunications.html) and the research master's degree in Microtechnologies, Architecture, Communication Networks and Systems also at [INSA Rennes](https://www.insa-rennes.fr/master-electronics.html) in 2022. I did my End-Of-Studies project at the [Institute of Research and Techology b<>com](https://b-com.com) (Rennes, France). I will pursue a PhD in Telecommunications engineering in 2023. My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
