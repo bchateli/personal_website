@@ -6,7 +6,7 @@ title: Baptiste CHATELIER
 superuser: true
 
 # Role/position/tagline
-role: Future PhD student in Telecommunications Engineering and Artificial Intelligence
+role: Future PhD Candidate in Telecommunications Engineering and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
