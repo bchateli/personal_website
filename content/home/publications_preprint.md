@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Published papers
+title: Preprints
 subtitle: ''
 
 content:
@@ -19,8 +19,8 @@ content:
       - publication
     tag: ''
     category: ''
-    #Put only published paperss
-    publication_type: '1'
+    #Put only preprint papers
+    publication_type: '3'
     author: ''
     exclude_featured: false
     exclude_future: false
