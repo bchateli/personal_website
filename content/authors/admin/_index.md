@@ -74,6 +74,6 @@ I received the Electronics and Telecommunications engineering master's degree at
 
 I did my End-Of-Studies project at the [Institute of Research and Technology b<>com](https://b-com.com) (Rennes, France). I was working on SISO-OFDM channel estimation using model-based machine learning techniques.
 
-I am currently working for [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) in Rennes as a Junior Researcher. I will pursue a PhD with MERCE and INSA Rennes/IETR early 2023.s
+I am currently working for [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) in Rennes as a Junior Researcher. I will pursue a PhD with MERCE and INSA Rennes/IETR early 2023.
 
 My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
