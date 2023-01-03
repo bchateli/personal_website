@@ -6,12 +6,15 @@ title: Baptiste CHATELIER
 superuser: true
 
 # Role/position/tagline
-role: Future PhD Candidate in Telecommunications Engineering and Artificial Intelligence
+role: PhD Candidate in Telecommunications Engineering and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Mitsubishi Electric R&D Centre Europe (MERCE)
     url: https://www.mitsubishielectric-rce.eu
+  
+  - name: IETR
+    url: https://www.ietr.fr/
     
   - name: National Institute of Applied Sciences (INSA)
     url: https://www.insa-rennes.fr
@@ -74,6 +77,6 @@ I received the Electronics and Telecommunications engineering master's degree at
 
 I did my End-Of-Studies project at the [Institute of Research and Technology b<>com](https://b-com.com) (Rennes, France). I was working on SISO-OFDM channel estimation using model-based machine learning techniques.
 
-I am currently working for [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) in Rennes as a Junior Researcher. I will pursue a PhD with MERCE and INSA Rennes/IETR early 2023.
+I am currently pursuing a PhD degree with [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) (Rennes, France) and [IETR](https://www.ietr.fr/), INSA Rennes (Rennes, France). My subject title is "Frugal AI for communication/localization convergence".
 
 My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
