@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 IEEE Wireless Communications and Networking Conference*
-publication_short: In *WCNC*
+publication_short: In *2022 IEEE WCNC*
 
 abstract: In this paper, we investigate the effects of Phase Noise (PN) on the Array Factor (AF) and beamforming gain of massive MIMO mmWave systems. We present different PN models based on the Local Oscillators (LO) architecture. We then study the impact of those PN models on the Array Factor and beamforming gain. We introduce novel analytical bounds for the asymptotic AF Mean Squared Error (MSE) and asymptotic Gain Loss (GL) due to PN in a MIMO system. We then show the validity of our bounds through simulations. We also provide a statistical study on the underlying probability distributions for both the GL and the effective beam steering direction. The parametric study of the fitted distribution parameters with the number of antennas of the Base Station (BS) provides new overviews on how to model the massive MIMO array factor under PN effects.
 
