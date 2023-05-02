@@ -8,7 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#publications_preprint'
+    url: '#publications'
+    #url: '#publications_preprint'
     weight: 50
 
 
