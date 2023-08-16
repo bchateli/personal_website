@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 ---
 # Display name
 title: Baptiste CHATELIER
