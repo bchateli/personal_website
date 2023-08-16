@@ -26,9 +26,7 @@ bio: My research interests include wireless communications, signal processing, a
 interests:
   - Signal processing
   - Applied mathematics
-  - Probability theory
   - Wireless communications
-  - MIMO systems
   - Artificial Intelligence
 
 # Education to show in About widget
@@ -73,10 +71,4 @@ email: ''
 highlight_name: true
 ---
 
-I received the Electronics and Telecommunications engineering master's degree at the [National Institute of Applied Sciences (INSA), Rennes, France](https://www.insa-rennes.fr/electronics-telecommunications.html) and the research master's degree in Microtechnologies, Architecture, Communication Networks and Systems also at [INSA Rennes](https://www.insa-rennes.fr/master-electronics.html) in 2022.
-
-I did my End-Of-Studies project at the [Institute of Research and Technology b<>com](https://b-com.com) (Rennes, France). I was working on SISO-OFDM channel estimation using model-based machine learning techniques.
-
-I am currently pursuing a PhD degree with [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) (Rennes, France) and [IETR](https://www.ietr.fr/), INSA Rennes (Rennes, France). My subject title is "Frugal AI for communication/localization convergence".
-
-My current research interests include **_signal processing_**, **_applied mathematics_**, **_wireless communications_**, and **_artificial intelligence_**.
+I am currently pursuing a PhD degree with [Mitsubishi Electric R&D Centre Europe (MERCE)](https://www.mitsubishielectric-rce.eu) (Rennes, France) and [IETR](https://www.ietr.fr/), INSA Rennes (Rennes, France) under the supervision of Matthieu CRUSSIERE, [Luc LE MAGOAROU](https://luclemagoarou.netlify.app/) and Vincent CORLAY. My subject title is "Frugal AI for communication/localization convergence". Prior to that I received the Electronics and Telecommunications engineering master's degree (M.Sc. equivalent) at the [National Institute of Applied Sciences (INSA), Rennes, France](https://www.insa-rennes.fr/electronics-telecommunications.html) and the research master's degree (M.Sc.) in Microtechnologies, Architecture, Communication Networks and Systems also at [INSA Rennes](https://www.insa-rennes.fr/master-electronics.html) in 2022. I did my End-Of-Studies project at the [Institute of Research and Technology b<>com](https://b-com.com) (Rennes, France) where I was working on SISO-OFDM channel estimation using model-based machine learning techniques.
