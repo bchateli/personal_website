@@ -6,7 +6,7 @@ title: Baptiste CHATELIER
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Wireless Telecommunications and Artificial Intelligence
+role: PhD Candidate in Wireless Communications and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
