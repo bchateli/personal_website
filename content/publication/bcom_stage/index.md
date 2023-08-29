@@ -50,7 +50,7 @@ url_pdf: 'https://arxiv.org/pdf/2210.06588.pdf'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'slides.pdf'
 #url_source: ''
 #url_video: ''
 

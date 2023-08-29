@@ -49,7 +49,7 @@ url_pdf: 'https://ieeexplore.ieee.org/document/9771690'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'slides.pdf'
 #url_source: ''
 #url_video: ''
 
