@@ -46,7 +46,7 @@ featured: true
 #  - name: Link to PDF
 #  - url: https://ieeexplore.ieee.org/document/9771690
 
-url_pdf: 'https://arxiv.org/abs/2308.14370'
+url_pdf: 'https://arxiv.org/pdf/2308.14370.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
