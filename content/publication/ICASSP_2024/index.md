@@ -1,5 +1,5 @@
 ---
-title: 'Influence of Dataset Parameters on the Performance of Direct UE Positioning via Deep Learning'
+title: 'Model-based learning for location-to-channel mapping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
