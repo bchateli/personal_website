@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-04-03T00:00:00Z'
-doi: ''
+doi: '10.1109/EuCNC/6GSummit58263.2023.10188249'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'

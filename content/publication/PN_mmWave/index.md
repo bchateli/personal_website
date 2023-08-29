@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2022-04-01T00:00:00Z'
-doi: ''
+doi: '10.1109/WCNC51071.2022.9771690'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
