@@ -18,7 +18,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-10-17T00:00:00Z'
-doi: ''
+doi: '10.48550/arXiv.2310.09940'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
