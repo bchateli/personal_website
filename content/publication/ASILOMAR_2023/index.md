@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 ---
 title: 'Model-based Deep Learning for Beam Prediction based on a Channel Chart'
 
@@ -84,5 +83,3 @@ url_slides: 'slides.pdf'
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-</div>
