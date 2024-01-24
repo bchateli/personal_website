@@ -32,7 +32,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Asilomar Conference on Signals, Systems and Computers
-publication_short: 2023 IEEE Asilomar
+publication_short: In *2023 IEEE Asilomar*
 
 abstract: Channel charting builds a map of the radio environment in an unsupervised way. The obtained chart locations can be seen as low-dimensional compressed versions of channel state information that can be used for a wide variety of applications, including beam prediction. In non-standalone or cell-free systems, chart locations computed at a given base station can be transmitted to several other base stations (possibly operating at different frequency bands) for them to predict which beams to use. This potentially yields a dramatic reduction of the overhead due to channel estimation or beam management, since only the base station performing charting requires channel state information, the others directly predicting the beam from the chart location. In this paper, advanced model-based neural network architectures are proposed for both channel charting and beam prediction. The proposed methods are assessed on realistic synthetic channels, yielding promising results.
 
