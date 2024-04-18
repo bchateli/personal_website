@@ -51,7 +51,7 @@ url_pdf: 'https://arxiv.org/pdf/2308.14370.pdf'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'slides.pdf'
 #url_source: ''
 #url_video: ''
 
