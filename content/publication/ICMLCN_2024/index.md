@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-10-17T00:00:00Z'
+date: '2024-05-01T00:00:00Z'
 doi: '10.48550/arXiv.2310.09940'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,8 @@ doi: '10.48550/arXiv.2310.09940'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: IEEE International Conference on Machine Learning for Communication and Networking
+publication_short: In *2024 IEEE ICMLCN*
 
 abstract: Integrated sensing and communications (ISAC) is envisioned as one of the key enablers of next-generation wireless systems, offering improved hardware, spectral, and energy efficiencies. In this paper, we consider an ISAC transceiver with an impaired uniform linear array that performs single-target detection and position estimation, and multiple-input single-output communications. A differentiable model-based learning approach is considered, which optimizes both the transmitter and the sensing receiver in an end-to-end manner. An unsupervised loss function that enables impairment compensation without the need for labeled data is proposed. Semi-supervised learning strategies are also proposed, which use a combination of small amounts of labeled data and unlabeled data. Our results show that semi-supervised learning can achieve similar performance to supervised learning with 98.8% less required labeled data.
 
