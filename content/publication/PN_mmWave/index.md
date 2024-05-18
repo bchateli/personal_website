@@ -1,5 +1,4 @@
 ---
-<div style="text-align: justify">
 title: 'On the Impact of Phase Noise on Beamforming Performance for mmWave Massive MIMO Systems'
 
 # Authors
@@ -76,4 +75,3 @@ url_slides: 'slides.pdf'
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-</div>
